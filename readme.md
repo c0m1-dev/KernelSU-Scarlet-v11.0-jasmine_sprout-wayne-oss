@@ -12,7 +12,7 @@ This project provides a compiled version of **Scarlet-X v11** with **KernelSU** 
 
 ### Requirements
 
-- Xiaomi Mi A2 (jasmine_sprout or wayne)
+- Xiaomi Mi A2 & MI 6X (jasmine_sprout or wayne)
 - Pixel Recovery installed on your device
 
 ### Steps to Flash
